@@ -3,5 +3,5 @@ main void()
 {
   printf("Hello World...!!!)
 
-  printf("/n this is the simple c program")
+  printf("/n this is the simple c programs")
          }
